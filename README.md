@@ -34,7 +34,7 @@ FaceDetect\resource\FaceDetect.pt
 5.APISR.pth:  
 APISR\resource\APISR.pth  
 
-### DiffStyler模型权重请前往官方代码库下载  
+### DiffStyler模型权重和使用方式请前往官方代码库 
 [DiffStyler](https://github.com/haha-lisa/Diffstyler) 
 模型权重放至 Diffstyler\checkpoints 文件夹下
 
@@ -46,6 +46,7 @@ streamlit run app.py
 
 ## CycleGANpro
 CycleGANpro的训练代码请移步[CycleGANpro]()   
+
 ## 参考的仓库  
 本项目参考了以下仓库：
 - [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)

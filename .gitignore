@@ -4,5 +4,6 @@ __pycache__/
 /KIDtest.py
 /SythesisedImage.png
 /resource/*
-/Diffstyler/checkpoints/*
+/Diffstyler/checkpoints/cc12m_1_cfg.pth
+/Diffstyler/checkpoints/wikiart_256.pth
 /CycleGAN_oringin

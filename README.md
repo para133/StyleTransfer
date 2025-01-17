@@ -1,4 +1,5 @@
 # 方嘉彬+2022214636+智能应用系统设计
+这里是系统展示代码  
 题目序号 3  
 任务名称：图像的卡通、动漫化风格生成系统
 
@@ -36,6 +37,12 @@ APISR\resource\APISR.pth
 ### DiffStyler模型权重请前往官方代码库下载  
 [DiffStyler](https://github.com/haha-lisa/Diffstyler) 
 模型权重放至 Diffstyler\checkpoints 文件夹下
+
+### 运行展示系统
+```
+streamlit run app.py
+```
+![系统主界面](imgs/image.png)  
 
 ## CycleGANpro
 CycleGANpro的训练代码请移步[CycleGANpro]()   

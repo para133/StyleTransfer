@@ -45,7 +45,7 @@ streamlit run app.py
 ![系统主界面](imgs/image.png)  
 
 ## CycleGANpro
-CycleGANpro的训练代码请移步[CycleGANpro]()   
+CycleGANpro的训练代码请移步[CycleGANpro](https://github.com/para133/CycleGANpro)   
 
 ## 参考的仓库  
 本项目参考了以下仓库：

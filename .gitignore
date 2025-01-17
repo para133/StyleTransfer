@@ -1,0 +1,8 @@
+__pycache__/
+/*/resource/*
+/TestData
+/KIDtest.py
+/SythesisedImage.png
+/resource/*
+/Diffstyler/checkpoints/*
+/CycleGAN_oringin

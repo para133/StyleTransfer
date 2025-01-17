@@ -35,7 +35,7 @@ FaceDetect\resource\FaceDetect.pt
 APISR\resource\APISR.pth  
 
 ### DiffStyler模型权重和使用方式请前往官方代码库 
-[DiffStyler](https://github.com/haha-lisa/Diffstyler) 
+[DiffStyler](https://github.com/haha-lisa/Diffstyler)  
 模型权重放至 Diffstyler\checkpoints 文件夹下
 
 ### 运行展示系统

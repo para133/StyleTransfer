@@ -6,8 +6,8 @@
 ## 环境搭建
 ### 1. 创建conda环境，实验在python==3.11下进行
 ```
-conda create -n fjb python==3.11
-conda activate fjb
+conda create -n StyleTransfer python==3.11
+conda activate StyleTransfer
 ```
 ### 2. 实验在torch2.1.0+CUDA12.2下进行
 ```
